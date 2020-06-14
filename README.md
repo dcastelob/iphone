@@ -4,6 +4,7 @@
 
 2. Configure environment:
 `# groupadd iphone`
+
 `# usermod -aG iphone $USER`
  
 3. Configure sudo to permit umount iphone device only iphone group members:
