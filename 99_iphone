@@ -1,0 +1,3 @@
+#Cmnd_Alias UMOUNT = /bin/umount ~/iphone
+%iphone   ALL=(ALL) NOPASSWD: /bin/umount
+
